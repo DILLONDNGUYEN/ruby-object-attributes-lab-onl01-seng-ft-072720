@@ -12,5 +12,8 @@ class Dog
   def breed
     @breed
   end
-  
 end
+
+class Person
+  def name= (P)
+  end
